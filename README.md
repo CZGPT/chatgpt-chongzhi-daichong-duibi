@@ -89,5 +89,6 @@
 - [国内银联卡充值 ChatGPT Plus 教程](https://czgpt.github.io/chatgpt-yinlian-chongzhi/)
 - [Codex 代充后的登录方式](https://czgpt.github.io/chatgpt-chongzhi-guide/docs/codex-daichong-denglu-fangshi-2026.html)
 - Hugging Face：[ChatGPT 充值](https://huggingface.co/spaces/czgptai/chatgpt-chongzhi) · [Codex 充值](https://huggingface.co/spaces/czgptai/codex-chongzhi) · [报错排查](https://huggingface.co/spaces/czgptai/chatgpt-baocuo) · [Claude 充值](https://huggingface.co/spaces/czgptai/claude-chongzhi) · [本页镜像](https://huggingface.co/spaces/czgptai/chatgpt-chongzhi-daichong-duibi)
+- 视频讲解（YouTube）：[ChatGPT代充哪家靠谱？8 家平台价格、售后逐项对比](https://youtu.be/F-trK2sz_zU)
 
 数据过期或有错误，欢迎提 Issue / PR。
