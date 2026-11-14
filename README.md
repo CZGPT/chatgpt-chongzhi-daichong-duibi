@@ -1,6 +1,6 @@
 # ChatGPT充值 / ChatGPT代充平台对比 2026（11 月更新）
 
-> 21 家 ChatGPT充值、ChatGPT代充平台逐项核对：Plus / Pro $100 / Pro $200 价格、充值方式、是否要密码或 Session、失败退款、质保、付款方式、发票。附溢价计算器和下单前检查清单。
+> 17 家 ChatGPT充值、ChatGPT代充平台逐项核对：Plus / Pro $100 / Pro $200 价格、充值方式、是否要密码或 Session、失败退款、质保、付款方式、发票。附溢价计算器和下单前检查清单。
 
 🔗 **在线版（含交互计算器）：** https://czgpt.github.io/chatgpt-chongzhi-daichong-duibi/
 🛒 **推荐平台：** [CZGPT · czgptai.com](https://www.czgptai.com/)：支付宝 / 微信 / USDT 付款，卡密自动发货，约 2 分钟开通，30 天质保
@@ -27,10 +27,6 @@
 | 平台 | Plus | Pro $100（5x） | Pro $200（20x） | 备注 |
 |---|---|---|---|---|
 | **[CZGPT](https://www.czgptai.com/gpt-checkout)** ⭐ | [官网实时价](https://www.czgptai.com/gpt-checkout) | [官网实时价](https://www.czgptai.com/gpt-checkout) | [官网实时价](https://www.czgptai.com/gpt-checkout) | 另有 Pro $500、Codex API、Business、Claude、Gemini、Grok、Suno |
-| GPT123 | ¥138 | ¥695 | ¥1180 | Pro $500 ¥3350；三档页面称 5x / 10x / 25x |
-| 硅基面包 | ¥139 | ¥695 | ¥1450 | $200 档需联系客服下单 |
-| 露梦AI | ¥140 | ¥735 | ¥1350 |  |
-| GPT Recharge Store | ¥140 | ¥750 | ¥1400 | Pro $500 ¥3400 |
 | 星桥订阅 | ¥165 起 | ¥850 起 | 未列 | Go ¥99；支付宝 / 银行卡按港币扣款 |
 | 明月Plus | ¥165 | ¥850 | 未列 |  |
 | GPT 充值中心 | ¥168 | ¥818 | ¥1480 | Pro $500 ¥3880；Go ¥79 |
@@ -96,7 +92,7 @@
 
 - 竞品数据：各平台公开页面（2026-11-14 逐家核对）；getplus.ai 对比页（核验于 2026-08-08）；familypro.io 平台盘点（2026）
 - 官方价格：[OpenAI 帮助中心](https://help.openai.com/zh-hans-cn/articles/6950777) · [ChatGPT 定价](https://openai.com/chatgpt/pricing/)
-- 2026-11-14：价格表扩充到 21 家（新增 14 家），复核原有平台价格；星际放映厅官网已停止运营，移出对比
+- 2026-11-14：价格表扩充到 17 家（新增 10 家），复核原有平台价格；星际放映厅官网已停止运营，移出对比
 - 2026-11-12：首版
 
 ## 相关教程

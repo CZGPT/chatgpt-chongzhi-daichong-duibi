@@ -36,53 +36,6 @@
       ]
     },
     {
-      "name": "GPT123",
-      "url": "https://gpt123.pro/",
-      "plus": "¥138",
-      "pro_100": "¥695",
-      "pro_200": "¥1180",
-      "other": "Pro $500 ¥3350；三档页面称 5x / 10x / 25x",
-      "currency": "CNY",
-      "no_password_stated": true,
-      "invoice_stated": false,
-      "checked": "2026-11-14"
-    },
-    {
-      "name": "硅基面包",
-      "url": "https://www.gjmb.cn/",
-      "plus": "¥139",
-      "pro_100": "¥695",
-      "pro_200": "¥1450",
-      "other": "$200 档需联系客服下单",
-      "currency": "CNY",
-      "no_password_stated": true,
-      "invoice_stated": true,
-      "checked": "2026-11-14"
-    },
-    {
-      "name": "露梦AI",
-      "url": "https://www.jrjrz.com/",
-      "plus": "¥140",
-      "pro_100": "¥735",
-      "pro_200": "¥1350",
-      "currency": "CNY",
-      "no_password_stated": true,
-      "invoice_stated": false,
-      "checked": "2026-11-14"
-    },
-    {
-      "name": "GPT Recharge Store",
-      "url": "https://gptvip8.com/",
-      "plus": "¥140",
-      "pro_100": "¥750",
-      "pro_200": "¥1400",
-      "other": "Pro $500 ¥3400",
-      "currency": "CNY",
-      "no_password_stated": true,
-      "invoice_stated": false,
-      "checked": "2026-11-14"
-    },
-    {
       "name": "星桥订阅",
       "plus": "¥165 起",
       "url": "https://xingqiaosub.com/",
